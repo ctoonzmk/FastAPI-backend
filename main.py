@@ -132,6 +132,6 @@ async def get_colleges(state: str):
 #Scholarship Offered
 
 #Regular Decision Deadline: Scrape website
-#Quantity of supplements: Scrape website
+#Quantity of supplements:
 
 # uvicorn main:app --host 0.0.0.0 --port 8080
